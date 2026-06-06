@@ -18,8 +18,10 @@ Este proyecto se enfocó en la ejecución de pruebas integrales para aplicacione
 * Ejecución de pruebas web integrales que aseguran una experiencia de usuario consistente.
 * Reportes de incidencias claros y accionables en JIRA, facilitando la corrección por parte del equipo de desarrollo.
 
+
 * ## 📋 Casos de Prueba
 Puedes consultar el detalle completo de los escenarios, clases de equivalencia y resultados esperados en el siguiente documento:
 
+> 📄 **Documentación Técnica:**
+> [Consulta aquí el archivo de Casos de Prueba (Excel)]([TU_ENLACE_AQUI](https://docs.google.com/spreadsheets/d/1QmxAYpFK3r4vuFNCICs8XLm1uW2c3BoW/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true))
 
-> [Acceder a la documentación completa en Excel]([enlace-a-tu-archivo-o-repo](https://docs.google.com/spreadsheets/d/1QmxAYpFK3r4vuFNCICs8XLm1uW2c3BoW/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true)
