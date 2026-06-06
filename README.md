@@ -23,5 +23,5 @@ Este proyecto se enfocó en la ejecución de pruebas integrales para aplicacione
 Puedes consultar el detalle completo de los escenarios, clases de equivalencia y resultados esperados en el siguiente documento:
 
 > 📄 **Documentación Técnica:**
-> [Consulta aquí el archivo de Casos de Prueba (Excel)]([TU_ENLACE_AQUI](https://docs.google.com/spreadsheets/d/1QmxAYpFK3r4vuFNCICs8XLm1uW2c3BoW/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true))
+> [Consulta aquí el archivo de Casos de Prueba (Excel)]([TU_ENLACE_AQUI](https://docs.google.com/spreadsheets/d/1QmxAYpFK3r4vuFNCICs8XLm1uW2c3BoW/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true)
 
